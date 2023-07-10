@@ -1,0 +1,17 @@
+/* Some basic styling for the page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  h1 {
+    text-align: center;
+  }
+  .car-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .car {
+    margin: 10px;
+  }
+  
