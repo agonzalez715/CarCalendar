@@ -2,10 +2,11 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: red;
+    background-color: lightblue;
   }
   h1 {
     text-align: center;
+    text-size-adjust: 10 rem;
   }
   .car-list {
     display: flex;
